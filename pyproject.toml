@@ -13,6 +13,7 @@ classifiers = [
     "Framework :: Django",
     "Framework :: Django :: 5.0",
     "Framework :: Django :: 5.1",
+    "Framework :: Django :: 5.2",
 ]
 
 [tool.poetry.dependencies]
